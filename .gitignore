@@ -1,0 +1,7 @@
+.tools/
+tests/generated.luau
+tests/generated-*.luau
+
+references/hydroxide-*.lua.txt
+references/matcha-documentation.txt
+references/source-index.json
